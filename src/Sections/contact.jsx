@@ -19,8 +19,8 @@ const Contact = () => {
     setLoading(true);
     try {
       await emailjs.send(
-        "service_fckb15j",
-        "template_1l0k45a",
+        "service_f5stzf7",
+        "template_mp318qh",
         {
           from_name: form.name,
           to_name: "Apurv Ishu",
@@ -28,7 +28,7 @@ const Contact = () => {
           to_email: "apurvishu11@gmail.com",
           message: form.message,
         },
-        "79LcqrC55wt9BY8Yw",
+        "MGYBg0F6OB1GM84Hx",
       );
       setLoading(false);
       setForm({ name: "", email: "", message: "" });
@@ -152,17 +152,6 @@ const Contact = () => {
                     src="/assets/linkedin.png"
                     alt="LinkedIn"
                     className="w-8 h-8 bg-white"
-                  />
-                </a>
-                <a
-                  href="https://www.instagram.com/ajay_k.d_?igsh=czY3NHVodWd4ZHEx"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <img
-                    src="/assets/instagram.svg"
-                    alt="LinkedIn"
-                    className="w-8 h-8"
                   />
                 </a>
               </div>

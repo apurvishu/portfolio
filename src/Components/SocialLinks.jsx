@@ -30,17 +30,6 @@ const SocialLinks = () => {
                 className="w-9 h-9 rounded-md  bg-white hover:bg-gradient-to-br hover:from-violet-500 hover:to-blue-500 hover:rounded-lg hover:w-10 hover:h-10 hover:animate-none transition-all animate-pulse duration-300"
               />
             </a>
-            <a
-              href="https://www.instagram.com/ajay_k.d_?igsh=czY3NHVodWd4ZHEx"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src="/assets/instagram.png"
-                alt="instagram"
-                className="w-9 h-9 rounded-lg p-0.5 bg-white hover:bg-gradient-to-br hover:from-violet-500 hover:to-blue-500 hover:rounded-xl hover:w-10 hover:h-10 hover:animate-none animate-pulse transition-all duration-300"
-              />
-            </a>
           </div>
         </div>
       )}

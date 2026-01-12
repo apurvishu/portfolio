@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! Built to showcase my skills, projects,
 
 ## 🚀 Live Demo
 
-👉 [Visit the Live Site](https://ajaykrishna3d-portfolio.vercel.app/)
+👉 [Visit the Live Site](https://apurvishu-portfolio.vercel.app/)
 
 ## 🧠 About the Project
 
